@@ -4,7 +4,7 @@
 some simple models 
 for MNIST classification.
 
-Contact@jiazx.buaa.edu.cn
+Contact: jiazx@buaa.edu.cn
 '''
 
 import torch
